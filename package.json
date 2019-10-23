@@ -16,7 +16,7 @@
     "bugs": {
         "url": "https://github.com/rholmes69hss/mywebsite1/issues"
     },
-    "homepage": "https://github.com/rholmes69hss/mywebsite1/",
+    "homepage": "https://github.com/rholmes69hss/mywebsite1/dist/index.html",
     "dependencies": {
         "gh-pages": "^2.1.1"
     }

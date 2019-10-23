@@ -1,0 +1,23 @@
+{
+    "name": "mywebsite1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "deploy": "gh-pages -d dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rholmes69hss/mywebsite1.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rholmes69hss/mywebsite1/issues"
+    },
+    "homepage": "https://github.com/rholmes69hss/mywebsite1/",
+    "dependencies": {
+        "gh-pages": "^2.1.1"
+    }
+}
